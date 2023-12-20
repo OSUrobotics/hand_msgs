@@ -1,3 +1,4 @@
+# Time-of-flight data message for a single zone
 uint8 zone_num
 uint32 ambient
 uint8 num_target
