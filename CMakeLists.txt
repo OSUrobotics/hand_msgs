@@ -18,6 +18,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Tof64.msg"
   "msg/Imu.msg"
   "action/Gripper.action"
+  "action/Record.action"
   # "msg/Sphere.msg"
   # "srv/AddThreeInts.srv"
   # DEPENDENCIES geometry_msgs # Add packages that above messages depend on, in this case geometry_msgs for Sphere.msg

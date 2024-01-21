@@ -1,0 +1,8 @@
+# Request
+string bag_name
+---
+# Result - 0 is complete failure, 1 is didn't make it to target, but didn't fail, and 2 is made it to target
+int8 result
+---
+# Feedback
+int8 recording_status
